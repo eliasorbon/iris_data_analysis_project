@@ -1,7 +1,7 @@
 # Iris Data Analysis Project
 
 ## Overview
-This project demonstrates a comprehensive analysis of the famous Iris dataset using Python. It showcases skills in data manipulation, visualization, and machine learning techniques, particularly focusing on exploratory data analysis and dimensionality reduction.
+This project demonstrates a analnysis of the famous Iris dataset using Python. It showcases skills in data manipulation, statistical analysis, and data visualization techniques, focusing on exploratory data analysis and dimensionality reduction using PCA.
 
 ## Technical Skills Demonstrated
 - **Python Programming**: Efficient use of Python for data analysis.
